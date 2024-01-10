@@ -1,0 +1,22 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Делает стекло более \"чистым\"",
+		"name": "Clean glass",
+		"uuid": "96f01af7-e071-4cad-96aa-c21682062b2f",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 18, 0]
+	},
+	"modules": [
+		{
+			"description": "Делает стекло более \"чистым\"",
+			"type": "resources",
+			"uuid": "1fce6a91-f886-4a5a-87fb-e2dd7b69a960",
+			"version": [1, 0, 0]
+		}
+	],
+	"metadata": {
+		"authors": ["killerypta"],
+		"url": "https://github.com/killerypta/Clean-glass"
+	}
+}
